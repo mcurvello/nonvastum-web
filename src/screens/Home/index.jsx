@@ -26,7 +26,7 @@ export default function Home() {
           FAÇA PARTE
         </Title>
         <Title>Unindo Forças</Title>
-        <HStack mt={32}>
+        <HStack mt={32} mb={32}>
           <VStack w={300} alignItems="center">
             <Image source={Sofa} alt="Logo" size={150} resizeMode="contain" />
             <Title mt={8} mb={4} fontSize="lg">
